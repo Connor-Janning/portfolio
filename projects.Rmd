@@ -14,7 +14,7 @@ Each dish represents a piece of Berlin’s street-food culture — brought all t
 Our signature Berlin-style Döner: freshly baked bread, shaved meat, crisp veggies, and homemade sauces.
 
 **Image Preview:**  
-![Döner Kebab](https://unsplash.com/de/fotos/eine-person-die-ein-sandwich-mit-fleisch-und-gemuse-in-der-hand-halt-sPmF7MNzdnU)
+![Döner Kebab](images/kebap.jpg)
 
 ---
 
@@ -23,7 +23,7 @@ Our signature Berlin-style Döner: freshly baked bread, shaved meat, crisp veggi
 A soft, grilled flatbread wrapped tightly around delicious fillings — perfect for on-the-go Döner lovers.
 
 **Image Preview:**  
-![Dürüm](https://unsplash.com/de/fotos/eine-nahaufnahme-eines-sandwiches-auf-einem-teller-jhTzMj5aJQk)
+![Dürüm](images/pommes.jpg)
 
 ---
 
@@ -32,8 +32,8 @@ A soft, grilled flatbread wrapped tightly around delicious fillings — perfect 
 Crispy, golden, perfectly salted fries — the essential side dish served “Berliner style.”
 
 **Image Preview:**  
-![Pommes Frites](https://unsplash.com/de/fotos/ein-teller-pommes-frites-fallt-in-die-luft-BkWowglS_Uk)
+![Pommes Frites](images/dürüm.jpg)
 
 ---
-
 [← Back to Home](index.html)
+
