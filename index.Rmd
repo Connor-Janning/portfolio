@@ -1,0 +1,54 @@
+---
+title: "Berlin Bite Döner – Authentic German Döner in Vancouver"
+---
+
+## 🇩🇪🔥 Welcome to **Berlin Bite Döner**
+
+Craving **authentic German Döner kebab** in the heart of Vancouver?  
+At **Berlin Bite Döner**, we bring the true taste of Berlin street food to Canada — freshly sliced, perfectly seasoned, and packed with flavor.
+
+> *“Real Döner. Real Berlin. Right here in Vancouver.”* 🥙✨
+
+From homemade sauces to freshly baked bread, every bite is crafted with passion and tradition.
+
+---
+
+### 🍽️ What We Serve
+
+We specialize in:
+
+- 🥙 **Classic Döner Kebabs** — beef, chicken, or veggie  
+- 🌯 **Döner Wraps** with fresh salads & signature sauces  
+- 🍟 **Döner Box** with fries or rice  
+- 🧆 **Vegetarian & vegan options**  
+- 🥤 **Authentic German drinks** (Ayran, Fritz-Kola, etc.)  
+
+Our customers include:
+
+- Locals seeking fresh, flavorful meals  
+- Tourists craving authentic Berlin street food  
+- Students and workers looking for quick, satisfying lunch options  
+- Ex-Germans missing the real taste of home 🇩🇪❤️  
+
+---
+
+### ⭐ Why Berlin Bite?
+
+- ✅ **Authentic Berlin taste** – traditional spices & fresh ingredients  
+- ✅ **House-made sauces** – garlic, spicy, Kräuter, yogurt & more  
+- ✅ **Friendly atmosphere** – fast, casual, and welcoming  
+- ✅ **Berlin street-food vibe** – simple, bold, unforgettable  
+
+---
+
+### 🚀 Explore Our Website
+
+Use the menu above to:
+
+- Learn more about our mission & menu on the [About & Services](about.html) page  
+- Meet the team behind Vancouver’s most authentic Döner shop in the [Team](team.html) section  
+- Check out featured dishes & customer favorites on the [Projects / Portfolio](projects.html) page  
+
+---
+
+*This website was built with **R Markdown** and deployed via **GitHub Pages**.* 🌐🔥
